@@ -1,0 +1,22 @@
+http 
+https 
+ftp 
+smtp 
+ssh 
+telnet 
+
+https://www.tiktok.com/@Karume
+protocol
+Sub-domain and top-level domains
+resource
+
+FORMS 
+ Request methods 
+	-get 
+	-post 
+	-put 
+	-patch 
+	-option 
+	-delete 
+	-head 
+
